@@ -1,3 +1,4 @@
 se agrega una linea de texto
+agrego línea nueva local y pongo más cambios
 cambio remoto
 en otro dispositivo
